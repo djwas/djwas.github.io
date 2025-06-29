@@ -4,7 +4,7 @@ permalink: /beethoven-sonata-opus-57/
 title: "Ludwig Van Beethoven (1770-1827) – Sonata, Opus 57"
 header:
     overlay_color: "#5e616c"
-tags: [beethoven, sonata, moonlight sonata]
+tags: [beethoven, sonata]
 ---
 
 Beethoven wrote his opus 57 sonata between the years of 1804 and 1805.  It was first published in 1807 in Vienna.  The name came about in an 1838 publication of the work.
