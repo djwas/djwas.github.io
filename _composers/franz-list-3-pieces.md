@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /franz-liszt-paginini/
+permalink: /franz-liszt-3-pieces/
 title: "Franz Liszt – Three Pieces"
 header:
     overlay_color: "#5e616c"
