@@ -5,3 +5,5 @@ main:
     url: /program/
   - title: "Teachers"
     url: /teachers/
+  - title: "Composers"
+    url: /composers/

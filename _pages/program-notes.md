@@ -2,7 +2,8 @@
 layout: single
 title: "Program Notes"
 permalink: /program-notes/
-author_profile: false
+header:
+  overlay_color: "#5e616c"
 ---
 
 

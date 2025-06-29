@@ -2,7 +2,8 @@
 layout: single 
 title: "Past Programs"
 permalink: /program/
-author_profile: false
+header:
+  overlay_color: "#5e616c"
 ---
 ## 2016 Program
 

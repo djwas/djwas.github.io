@@ -2,6 +2,8 @@
 layout: single
 permalink: /teachers/
 title: Teaching History
+header:
+  overlay_color: "#5e616c"
 ---
 
 | Teacher | Institution | Years |
