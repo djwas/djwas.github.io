@@ -6,5 +6,6 @@ collection: composers
 entries_layout: grid
 classes: wide
 header:
-    overlay_color: "#5e616c"
+    overlay_image: /images/keyboard-full.jpg
+    overlay_filter: 0.7
 ---

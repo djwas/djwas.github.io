@@ -2,7 +2,8 @@
 layout: single
 permalink: /
 header:
-  overlay_color: "#5e616c"
+    overlay_image: /images/keyboard-full.jpg
+    overlay_filter: 0.7
 title: "David Wasser"
 excerpt: "Pianist"
 author_profile: false

@@ -3,7 +3,8 @@ layout: single
 title: "Past Programs"
 permalink: /program/
 header:
-  overlay_color: "#5e616c"
+    overlay_image: /images/keyboard-full.jpg
+    overlay_filter: 0.7
 ---
 ## 2016 Program
 
