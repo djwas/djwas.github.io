@@ -10,7 +10,7 @@ Of Liszt’s four Mephistos, the first, programmed here, was written between 185
 
 Liszt wrote many works which displayed his keyboard prowess, and as a touring artist, his wondrous music and his pyrotechnical displays drew a strong following to his performances. He is said to have been one of the greatest pianists of any age, and if his playing matched his music, this would have to be true.
 
-Mephisto Waltz is a tone poem expressing a portion of the Faust tale. Faust is believed to have been a real person who lived around 1500 in what is now Austria. The devil Mephistopheles agreed to grant Faust a life of pleasure in return for his soul upon Faust’s death. Liszt’s “Mephisto” may open with a scene in a moonlit clearing outside an inn at which Faust spent considerable time in drunken debauchery.
+**Mephisto Waltz** is a tone poem expressing a portion of the Faust tale. Faust is believed to have been a real person who lived around 1500 in what is now Austria. The devil Mephistopheles agreed to grant Faust a life of pleasure in return for his soul upon Faust’s death. Liszt’s “Mephisto” may open with a scene in a moonlit clearing outside an inn at which Faust spent considerable time in drunken debauchery.
 
 Legend describes the devil’s ability to waltz at a tempo considerably faster than mere mortals, and on this point the waltz begins at a frenzied pace. Imagine Mephisto dancing in a clearing of trees beneath a full moon amidst a crowd of converts at the pace of Liszt’s music, and you will have a sense of the devil’s supernatural powers.
 
