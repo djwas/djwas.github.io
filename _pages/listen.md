@@ -12,8 +12,8 @@ header:
 
 Listen to some of David's work below: 
 
-| Piece | Composer | Listen |
-|---|---|---|
-| Movement 1 | Beethoven | <audio controls style="height:25px;"><source src="/assets/audio/david-wasser-beethoven-movement1.mp3" type="audio/mpeg"></audio> |
+| Piece | Listen |
+|---|---|
+| Beethoven Sonata op 79 1st Movement | <audio controls style="height:25px;"><source src="/assets/audio/david-wasser-beethoven-movement1.mp3" type="audio/mpeg"></audio> |
 
 
